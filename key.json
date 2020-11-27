@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "casuistrynews",
+  "private_key_id": "abd5644a5b92dde970f168a7386d0a158bfd39c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuul0HaXW4+nl/\niSYFGHJi6sFqwYlhCmYNulT4fgQz+8FVLwlZeuEKxgFFoZ0YcEJkAwn7CVaL7HAC\nPEXvhYp7BxDmAeDcsDlb+slOTjniuflykrx1xBn5wLCb1zmVV6bgylg/HFBK+pwg\nnSbYak3rLu6cZ4G2B+JuGMJwS99qoTiqm3wled3TGqApbXvCsLCiH9i4kZ2+NVoT\n9lc2B9wKUKJhiwOL052vGgP0f6eRSTfISbWLvY5jSLLbVhUQKetJO7b/IU/ZVdGn\njijO7VR3fyVnYYvXw8+jbnj9+BK2HDKl1aVNxZUoRnWYIuiOF3PfmQhXJ280W4JO\nxXI96NTjAgMBAAECggEAF/ct3V9kqzuHwKtyEI7a2aBzaQ4kpq/DcayWDQNT1kF4\nshNih+hnx4+DCybwojJ7mLYl/023ljeW4Wec/A5oARnmAnZNfleZdnk+dUQbgnKZ\nuVJRESIVogEA+E8b8dT06a43Tmi2xqH7GioT8ukZyOFGDyPPUcVhFFLHEJoHidtb\nHwPIa+adzVBGrN36zMOrss5cEMGgmJnnpR3uUwwHbwS3Mc5UFqGWOoSwVDB0o/ZJ\ny2zgLZBpGOQlUmgi1uEIKxgF7jeDFVAzd02YeW7ZiIRrjq0ojthfVk4e/MkTyhDo\n07d0bxus9+OTiDxVsyPtyUmDONM4yhjZRYhveiWDSQKBgQDYUGq1Bc0eh49YXs7n\n//LYPK7fe9uWdq+GxXD9D6tiPM2YUtHdJ5HYy0POMd5m5u4c58V02wHRuMfEGX2t\nAflGMFvvypHDj2rCb3RGglGNfnztzkX9V+Co7JtMkebZLtOLhJC3DLoCAGQ10Vhv\n+7Wxopo2laRekF+HSMtEGb+9jwKBgQDOyMc4pqpVwMMvfp4+s1Im7a80VAtXnOOo\nVLaF85nkUFdf4Q5c5u3Q9lJ4Jh0y+8e0C+2qa9qPqQQLiLPyLetpFnn20Nee1W4R\n/um7XgdQ29jkQ9lOpiMNsKkLXEJrpdnB99Lsh3/wWjDs4PeVfkHzEvOVgz5iT1qx\nKnBlt1dxbQKBgHB9OVCUCLxEoK3C9/Q77Oy4efQsM+BGLjd2u7BOEsEOf5gkEZDh\nf/3ujn9O/aojk1YizVNchNCsN+5plyp+KURv54+Gl1DMZydf0GbOZFyhl5QPPeRm\na6VNDeG+yf7NVCNst9kJXD2oOHSoPkZV7oHG3k1eelDW4Wa320S54zVPAoGAB2Ib\n2uX4hv9O+M8oj0yPzlwGOXQWw5YSetwreDTudbx4oi/C94Y3T5K79xZFTKC4zLDw\nV3lqYF7EijTjV+5TzXjD+hAS4tT0DShw6AO/dx+iauQRSkGcVszL/F/a70UItWhH\n27Iq20YdIRgXPvs3F5rBn8ED5Ta4IkNFqBwXvzECgYAxPqpFvBBsDIekhb3eQpxX\nqkIGC5BdNAG4FG2J2b6OPYyCBsEaufTmh+QXbLa6uIgeFloCXC3XZLbrCfKp3qLt\nsYtr1h0SqEpfZFzpDO3V3gzowdo/aOvoXnVPqcPhtwwimLMX0NAiOyMZtfQJy7lE\nS7VBiqxUGQA13Brp4189NQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7n93z@casuistrynews.iam.gserviceaccount.com",
+  "client_id": "111437174904772311909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7n93z%40casuistrynews.iam.gserviceaccount.com"
+}
